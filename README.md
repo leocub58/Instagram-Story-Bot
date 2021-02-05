@@ -8,7 +8,7 @@ This bot will answer all the stories that you answer
 ```
 1- download files
 2- [check your chrome version](https://prnt.sc/ybtskp)
-
+[download the .unitypackage](https://github.com/leocub58/Tilemap-to-PNG-Unity/raw/master/TilemapToPng.unitypackage)
 #If your version isnt equal to 88.X
 3- then go to https://chromedriver.chromium.org/downloads and download your driver version
 4- change the driver name to "chromedriver.exe"
