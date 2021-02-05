@@ -6,7 +6,7 @@ This bot will answer all the stories that you answer
 
 # How to install
 ```
-1- download files
+1- clone repository or download files
 ```
 2- [check your chrome version](https://prnt.sc/ybtskp)
 
