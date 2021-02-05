@@ -6,7 +6,9 @@ This bot responds to all the stories that have been answered to you
 
 # How to install
 
-1- clone repository or download files``` ```
+1- clone repository or download files
+``` 
+```
 2- [check your chrome version](https://prnt.sc/ybtskp)
 
 **If your version isnt equal to 88.X**
