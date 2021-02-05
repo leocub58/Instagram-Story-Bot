@@ -1,5 +1,7 @@
 # Instagram Story Bot
 This bot will answer all the stories that you answer
+
+
 ![readable settings](https://i.ibb.co/09ckR4S/Insta-Story-Bot.png)
 
 # How to install
