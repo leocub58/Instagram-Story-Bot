@@ -1,0 +1,24 @@
+{
+    "phrases": [
+        "Mi vida es mucho más bonita desde que tú estás en ella",
+        "Tu sueño nunca se desvanecerá si no le dejas marchar.",
+        "El momento perfecto no existe. Bueno, sí, es aquí y ahora, así que no esperes más para hacer eso que tanto deseas, quiero que seas feliz.",
+        "Aprovecha cada pequeño instante de tu vida, quiero que seas feliz.",
+        "Me encanta tu sonrisa, deberías sonreir más",
+        "Los amigos verdaderos están ahí cuando el resto te deja tirado. Uno verdadero se queda a tu lado mientras otros se han marchado, tú eres un amigo verdadero",
+        "Si tuviera una flor para cada vez que pienso en ti, podría andar en mi jardín para siempre.",
+        "Gracias por recordarme cómo sienta tener mariposas en el estómago.",
+        "La mejor parte de mi día es verte. Siempre.",
+        "Te quiero... no importa cuando leas esto, nunca será menos cierto que ahora.",
+        "Mira, no sé qué somos... pero hay que seguir siéndolo.",
+        "Qué bonita es la vida ahora que estás tú en ella.",
+        "No te quiero detrás ni delante, sino a mi lado.",
+        "Aunque tenga 1000 razones para estar triste, tu sonrisa siempre combate cada una de ellas.",
+        "Ama a ti mismo y la vida te ama. Tu puedes con todo"
+    ],
+    "login": {
+        "user": "USER",
+        "pass": "PASS"
+    },
+    "driverExecutablePath": "chromedriver.exe"
+}
