@@ -5,13 +5,16 @@
 This bot will answer all the stories that you answer
 
 # How to install
-
+```
 1- download files
+```
 2- [check your chrome version](https://prnt.sc/ybtskp)
-#If your version isnt equal to 88.X
+```
+# If your version isnt equal to 88.X
 3- then go to https://chromedriver.chromium.org/downloads and download your driver version
 4- change the driver name to "chromedriver.exe"
 5- Put the driver in the folder and replace it
+```
 
 >>You can change the driver path in config.json
 
