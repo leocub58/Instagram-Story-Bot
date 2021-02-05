@@ -2,7 +2,7 @@
 
 
 # Instagram Story Bot
-This bot will answer all the stories that you answer
+This bot responds to all the stories that have been answered to you
 
 # How to install
 ```
