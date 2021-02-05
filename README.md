@@ -1,9 +1,9 @@
 # Instagram Story Bot
 This bot will answer all the stories that you answer
-[![](https://i.ibb.co/09ckR4S/Insta-Story-Bot.png)]
+[(https://i.ibb.co/09ckR4S/Insta-Story-Bot.png)]
 
 
-#How to install
+# How to install
 ```
 1- download files
 2- check your chrome version (https://prnt.sc/ybtskp)
@@ -16,14 +16,14 @@ This bot will answer all the stories that you answer
 >>You can change the driver path in config.json
 
 
-#How to start
+# How to start
 ```
 1- open config.json file
 2- change the phrases if you want
 3- replace "USER" and "PASSWORD" with your credentials THESE DATA WILL NOT BE SAVED IN ANY FILE OR PLACE OTHER THAN "CONFIG.JSON"
 5- Ask a friend to answer your story and enjoy!
 ```
-#Creator letter
+# Creator letter
 
 >>I think it is a software that in the wrong hands could do a lot of damage, spam or save credentials to steal accounts, so I refuse to share the source code of this bot. I hope it serves you and you have fun using it.
 
